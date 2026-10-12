@@ -32,3 +32,6 @@
 - Регион 2020/21, часть 1, № 35, 36, 39, 40 и часть 3 финала того же года, № 4 в расчётной части (группы крови). [Регион](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/reg/biol/tasks-biol-10-11-teor-reg-20-21.pdf), [финал](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/final/biol/tasks-biol-10-teor-final-20-21.pdf)
 - Финал 2025/26, часть 5, № 3 и 4 — частота аллеля и 20 сантиморганид. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2025-26/final/biol/tasks-biol-10-teor-final-25-26.pdf)
 - Финал 2022/23, часть 4, № 6. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/final/biol/tasks-biol-10-teor-final-22-23.pdf)
+- «Высшая проба», 2025/26, № 3 и комплект 2022 года, № 3 — самоопыление с перекрёстом и три аллеля одного гена. [2025/26](https://olymp.hse.ru/mmo/tasks-biology), [2022](https://olymp.hse.ru/mirror/pubs/share/575058077.pdf)
+- Московская олимпиада по генетике, финал 2025/26, № 2, 3, 4 и 9 — аск нейроспоры, гибриды, пол цветка, три аллеля в популяции. [Задания](https://mosgen.olimpiada.ru/upload/files/2026_final_tasks_10.pdf)
+- Там же, финал 2024/25, № 1, 2, 5 и 7 — сцепление с Z и W, пол растений, миграция в популяцию, пчелиная матка. [Задания](https://mosgen.olimpiada.ru/upload/files/2025_final_tasks_answers_10.pdf)

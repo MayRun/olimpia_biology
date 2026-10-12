@@ -30,5 +30,6 @@
 - Регион 2023/24, часть 1, № 1 и 2, часть 2, № 1, часть 3, № 1. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf)
 - Финал 2024/25, часть 2, № 1 и 2 — схема вирусного цикла и адгезия бактерий. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/final/biol/tasks-biol-10-teor-final-24-25.pdf)
 - Регион 2020/21, часть 1, № 1 и часть 3, № 1. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/reg/biol/tasks-biol-10-11-teor-reg-20-21.pdf)
+- «Физтех», финал 2022/23, часть 2 — две фазы брожения клостридий и цена азотфиксации в АТФ. [Задания](https://bioturnir.ru/files/olimp/mipt/bio/2023/mipt_bio2023_final_10.pdf)
 
 Практические кабинеты микробиологии на финале 2021/22, 2022/23, 2023/24 и 2025/26 перечислены в [каталоге](../catalog/vsosh.md).

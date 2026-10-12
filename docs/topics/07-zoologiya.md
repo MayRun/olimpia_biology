@@ -29,5 +29,6 @@
 - Регион 2022/23, часть 3, № 10 и 11. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/reg/biol/tasks-biol-10-11-teor-reg-22-23.pdf)
 - Регион 2021/22, часть 3, № 10–12. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/reg/biol/tasks-biol-10-11-teor-reg-21-22.pdf)
 - Финал 2021/22, часть 4, № 3, 4 и 9. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/final/biol/tasks-biol-10-teor-final-21-22.pdf)
+- «Высшая проба», 2022, № 2 — сколько вылетов нужно, чтобы выкормить птенцов. [Комплект](https://olymp.hse.ru/mirror/pubs/share/575058077.pdf)
 
 Черепа и определение позвоночных на практике — в [практическом туре](12-praktika.md).

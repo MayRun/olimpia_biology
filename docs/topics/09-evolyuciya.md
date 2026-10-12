@@ -30,3 +30,5 @@
 - Регион 2020/21, часть 1, № 28–30. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/reg/biol/tasks-biol-10-11-teor-reg-20-21.pdf)
 - Финал 2024/25, часть 1, № 19 и 20 — логотип белка и гены на Y-хромосоме. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/final/biol/tasks-biol-10-teor-final-24-25.pdf)
 - Финал 2020/21, часть 4, № 14. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/final/biol/tasks-biol-10-teor-final-20-21.pdf)
+
+В размеченных перечневых комплектах отдельного номера с главной темой «эволюция» нет. Задачи про пол растений и половые хромосомы лежат в [генетике](04-genetika.md).

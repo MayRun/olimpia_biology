@@ -30,3 +30,6 @@
 - Регион 2020/21, часть 1, № 33 и 38. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/reg/biol/tasks-biol-10-11-teor-reg-20-21.pdf)
 - Финал 2024/25, часть 1, № 19 — логотип последовательности миоглобина. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/final/biol/tasks-biol-10-teor-final-24-25.pdf)
 - Финал 2022/23, часть 4, № 5. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/final/biol/tasks-biol-10-teor-final-22-23.pdf)
+- Московская олимпиада по генетике, финал 2025/26, № 1, 6, 7 и 8 — рекомбинация att-сайтов, обрыв цепи при секвенировании, состав РНК и CpG-островки. [Задания](https://mosgen.olimpiada.ru/upload/files/2026_final_tasks_10.pdf)
+- Там же, финал 2024/25, № 3 и 9 — сплайсинг и сборка генома. [Задания](https://mosgen.olimpiada.ru/upload/files/2025_final_tasks_answers_10.pdf)
+- «Физтех», финал 2022/23, часть 2 — скорость транскрипции по появлению участков РНК. [Задания](https://bioturnir.ru/files/olimp/mipt/bio/2023/mipt_bio2023_final_10.pdf)

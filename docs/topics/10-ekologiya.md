@@ -33,3 +33,5 @@
 - Финал 2020/21, часть 4, № 1, 7 и 8. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/final/biol/tasks-biol-10-teor-final-20-21.pdf)
 - Финал 2021/22, часть 4, № 1. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/final/biol/tasks-biol-10-teor-final-21-22.pdf)
 - Регион 2022/23, часть 3, № 12. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/reg/biol/tasks-biol-10-11-teor-reg-22-23.pdf)
+- «Высшая проба», 2025/26, № 5 и 7 — социальное обучение и заметная окраска. [Задания](https://olymp.hse.ru/mmo/tasks-biology)
+- «Высшая проба», 2022, № 6 — зачем животным запах. [Комплект](https://olymp.hse.ru/mirror/pubs/share/575058077.pdf)

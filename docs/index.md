@@ -14,7 +14,9 @@
 - [ВсОШ, 10 класс, 2020/21–2025/26](catalog/vsosh.md)
 - [Перечневые олимпиады](catalog/perechen.md)
 
-Все размеченные номера региона и финала — в [общем списке](zadaniya/00-vse.md), по темам они же лежат в [карте](temy.md). Целиком разобраны регион 2020/21 (часть 1), 2023/24 и 2024/25; у остальных сезонов — части на соответствие и расчёт и отдельные задания финала. Школьный и муниципальный этапы есть в каталоге ссылками, без пономерной разметки.
+Все размеченные номера региона и финала ВсОШ — в [общем списке](zadaniya/00-vse.md), по темам они же лежат в [карте](temy.md). Целиком разобраны регион 2020/21 (часть 1), 2023/24 и 2024/25; у остальных сезонов — части на соответствие и расчёт и отдельные задания финала. Школьный и муниципальный этапы есть в каталоге ссылками, без пономерной разметки.
+
+Перечневые номера в тех же темах: [отдельный список](zadaniya/12-perechen.md). Там финалы «Высшей пробы», теория финала Московской олимпиады по генетике и открытые задачи финала «Физтеха». Условия по-прежнему только по ссылке.
 
 ## Как устроена подготовка в 10 классе
 
@@ -44,17 +46,17 @@
 
 | Раздел | Разбор | Все номера |
 | --- | --- | --- |
-| Клетка и мембраны | [разбор](topics/01-kletka.md) | [18](zadaniya/01-kletka.md) |
-| Метаболизм | [разбор](topics/02-metabolizm.md) | [23](zadaniya/02-metabolizm.md) |
-| Молекулярная биология | [разбор](topics/03-molekulyarnaya.md) | [19](zadaniya/03-molekulyarnaya.md) |
-| Генетика | [разбор](topics/04-genetika.md) | [19](zadaniya/04-genetika.md) |
-| Микробиология и вирусы | [разбор](topics/05-mikrobiologiya.md) | [20](zadaniya/05-mikrobiologiya.md) |
-| Ботаника | [разбор](topics/06-botanika.md) | [59](zadaniya/06-botanika.md) |
-| Зоология | [разбор](topics/07-zoologiya.md) | [40](zadaniya/07-zoologiya.md) |
-| Человек | [разбор](topics/08-chelovek.md) | [43](zadaniya/08-chelovek.md) |
+| Клетка и мембраны | [разбор](topics/01-kletka.md) | [20](zadaniya/01-kletka.md) |
+| Метаболизм | [разбор](topics/02-metabolizm.md) | [24](zadaniya/02-metabolizm.md) |
+| Молекулярная биология | [разбор](topics/03-molekulyarnaya.md) | [26](zadaniya/03-molekulyarnaya.md) |
+| Генетика | [разбор](topics/04-genetika.md) | [29](zadaniya/04-genetika.md) |
+| Микробиология и вирусы | [разбор](topics/05-mikrobiologiya.md) | [21](zadaniya/05-mikrobiologiya.md) |
+| Ботаника | [разбор](topics/06-botanika.md) | [62](zadaniya/06-botanika.md) |
+| Зоология | [разбор](topics/07-zoologiya.md) | [41](zadaniya/07-zoologiya.md) |
+| Человек | [разбор](topics/08-chelovek.md) | [48](zadaniya/08-chelovek.md) |
 | Эволюция и систематика | [разбор](topics/09-evolyuciya.md) | [17](zadaniya/09-evolyuciya.md) |
-| Экология и этология | [разбор](topics/10-ekologiya.md) | [16](zadaniya/10-ekologiya.md) |
-| Методы и расчёты | [разбор](topics/11-metody.md) | [6](zadaniya/11-metody.md) |
+| Экология и этология | [разбор](topics/10-ekologiya.md) | [19](zadaniya/10-ekologiya.md) |
+| Методы и расчёты | [разбор](topics/11-metody.md) | [10](zadaniya/11-metody.md) |
 | Практический тур | [разбор](topics/12-praktika.md) | в индекс теории не входит |
 
 ## Откуда взяты ссылки

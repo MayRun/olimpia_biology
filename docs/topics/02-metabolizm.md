@@ -30,3 +30,4 @@
 - Регион 2021/22, часть 3, № 9 — признаки С3 и С4. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/reg/biol/tasks-biol-10-11-teor-reg-21-22.pdf)
 - Финал 2024/25, часть 5, № 1 — водород и сборка глюкозы в цикле Кальвина. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/final/biol/tasks-biol-10-teor-final-24-25.pdf)
 - Финал 2020/21, часть 4, № 15 и часть 5, № 3. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/final/biol/tasks-biol-10-teor-final-20-21.pdf)
+- «Высшая проба», 2025/26, № 2 — объём газа при двух брожениях лактозы. [Задания](https://olymp.hse.ru/mmo/tasks-biology)

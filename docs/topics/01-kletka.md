@@ -29,3 +29,5 @@
 - Регион 2023/24, часть 1, № 26 и часть 2, № 16 — стадия деления и цитоскелет. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf)
 - Регион 2020/21, часть 1, № 14 и 37 — редукция митохондрий и актин. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/reg/biol/tasks-biol-10-11-teor-reg-20-21.pdf)
 - Финал 2025/26, часть 5, № 2 — рост числа клеток с учётом фазы G0. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2025-26/final/biol/tasks-biol-10-teor-final-25-26.pdf)
+- Московская олимпиада по генетике, финал 2024/25, № 4 — эндоредупликация и цитофлуориметрия. [Задания](https://mosgen.olimpiada.ru/upload/files/2025_final_tasks_answers_10.pdf)
+- «Физтех», финал 2022/23, часть 1 — состав среды и предел делений культуры. [Задания](https://bioturnir.ru/files/olimp/mipt/bio/2023/mipt_bio2023_final_10.pdf)

@@ -31,5 +31,8 @@
 - Финал 2024/25, часть 2, № 3 и 4. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/final/biol/tasks-biol-10-teor-final-24-25.pdf)
 - Финал 2020/21, часть 4, № 2–6. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/final/biol/tasks-biol-10-teor-final-20-21.pdf)
 - Регион 2021/22, часть 3, № 5–9. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/reg/biol/tasks-biol-10-11-teor-reg-21-22.pdf)
+- «Высшая проба», 2025/26, № 6 — декоративный томат. [Задания](https://olymp.hse.ru/mmo/tasks-biology)
+- «Высшая проба», 2022, № 5 — свойства комнатного растения. [Комплект](https://olymp.hse.ru/mirror/pubs/share/575058077.pdf)
+- Московская олимпиада по генетике, финал 2024/25, № 6 — ауксин и меристема. [Задания](https://mosgen.olimpiada.ru/upload/files/2025_final_tasks_answers_10.pdf)
 
 Срезы и кабинеты анатомии растений — в [практическом туре](12-praktika.md).

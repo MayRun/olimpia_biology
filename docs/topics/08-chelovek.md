@@ -29,5 +29,9 @@
 - Регион 2023/24, часть 1, № 12, 14, 17–19, 30, часть 2, № 11, 15, 18–20, часть 3, № 5 и 7. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf)
 - Регион 2022/23, часть 3, № 8, 13–15. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/reg/biol/tasks-biol-10-11-teor-reg-22-23.pdf)
 - Финал 2020/21, часть 4, № 10–13. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/final/biol/tasks-biol-10-teor-final-20-21.pdf)
+- «Высшая проба», 2025/26, № 4 — тканевая совместимость и отторжение. [Задания](https://olymp.hse.ru/mmo/tasks-biology)
+- «Высшая проба», 2022, № 4 и 7 — классы антител и разная скорость новой инфекции. [Комплект](https://olymp.hse.ru/mirror/pubs/share/575058077.pdf)
+- Московская олимпиада по генетике, финал 2024/25, № 8 — гены развития сердца. [Задания](https://mosgen.olimpiada.ru/upload/files/2025_final_tasks_answers_10.pdf)
+- «Физтех», финал 2022/23, часть 1 — физиология ныряния. [Задания](https://bioturnir.ru/files/olimp/mipt/bio/2023/mipt_bio2023_final_10.pdf)
 
 Кабинет физиологии на регионе и финале — в [каталоге ВсОШ](../catalog/vsosh.md).

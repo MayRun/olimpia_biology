@@ -29,5 +29,7 @@
 - Регион 2023/24, часть 1, № 25. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf)
 - Финал 2025/26, часть 5, № 1 — проводимость для натрия. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2025-26/final/biol/tasks-biol-10-teor-final-25-26.pdf)
 - Финал 2021/22, часть 4, № 11. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/final/biol/tasks-biol-10-teor-final-21-22.pdf)
+- «Высшая проба», 2025/26, № 1 и комплект 2022 года, № 1 — план опыта, а не готовый вывод. [2025/26](https://olymp.hse.ru/mmo/tasks-biology), [2022](https://olymp.hse.ru/mirror/pubs/share/575058077.pdf)
+- Московская олимпиада по генетике, финал 2025/26, № 5 и 10 — константа связывания белок–ДНК и число копий хромосомы в видимой полосе. [Задания](https://mosgen.olimpiada.ru/upload/files/2026_final_tasks_10.pdf)
 
 Смежные расчёты по генетике и метаболизму лежат в [генетике](04-genetika.md) и [метаболизме](02-metabolizm.md): в индексе у них свои темы, навык при этом расчётный.
