@@ -1,0 +1,400 @@
+# Комплекты ВсОШ по биологии, 10 класс, сезоны 2020/21–2025/26.
+# Ссылки проверены по архиву https://vos.olimpiada.ru/tasks (код ответа 200).
+# status: missing — файл по стандартному имени в архиве не открывается.
+# Школьный и муниципальный этапы — вариант центральной предметно-методической комиссии.
+
+- id: vsosh-2020-21-school-10
+  olympiad: ВсОШ
+  year: "2020/21"
+  stage: школьный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/school/biol/tasks-biol-10-sch-msk-20-21.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/school/biol/ans-biol-10-sch-msk-20-21.pdf
+  note: "Вариант центральной комиссии. Базовый многотемный тест к школьному этапу."
+
+- id: vsosh-2020-21-mun-10
+  olympiad: ВсОШ
+  year: "2020/21"
+  stage: муниципальный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/mun/biol/tasks-biol-10-mun-msk-20-21.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/mun/biol/ans-biol-10-mun-msk-20-21.pdf
+  note: "Вариант центральной комиссии. Тест сложнее школьного, с соответствиями."
+
+- id: vsosh-2020-21-reg-10-theory
+  olympiad: ВсОШ
+  year: "2020/21"
+  stage: региональный
+  tour: теоретический
+  grade: "10-11"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/reg/biol/tasks-biol-10-11-teor-reg-20-21.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/reg/biol/ans-biol-10-11-teor-reg-20-21.pdf
+  note: "Общий комплект 10–11 классов, вариант 1. Один ответ, верно/неверно по пунктам, соответствия. Темы от хемосинтеза и фотосинтеза до генетики и эмбриологии."
+
+- id: vsosh-2020-21-reg-10-practical
+  olympiad: ВсОШ
+  year: "2020/21"
+  stage: региональный
+  tour: практический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/reg/biol/tasks-biol-10-prak-reg-20-21.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/reg/biol/ans-biol-10-prak-reg-20-21.pdf
+  note: "Кабинеты: физиология и анатомия растений, зоология позвоночных, анатомия и физиология человека и животных. Вариант 1."
+
+- id: vsosh-2020-21-final-10-theory
+  olympiad: ВсОШ
+  year: "2020/21"
+  stage: заключительный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/final/biol/tasks-biol-10-teor-final-20-21.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/final/biol/ans-biol-10-teor-final-20-21.pdf
+  note: "Уфа. Пять частей: один ответ, множественный выбор, задания с общим условием, соответствия, расчётные задачи."
+
+- id: vsosh-2020-21-final-10-practical
+  olympiad: ВсОШ
+  year: "2020/21"
+  stage: заключительный
+  tour: практический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/final/biol/tasks-biol-10-prak-final-20-21.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/final/biol/ans-biol-10-prak-final-20-21.pdf
+  note: "Кабинеты: анатомия растений, биохимия и биотехнология, зоология позвоночных."
+
+- id: vsosh-2021-22-school-10
+  olympiad: ВсОШ
+  year: "2021/22"
+  stage: школьный
+  tour: теоретический
+  grade: "10"
+  status: missing
+  tasks_url: ""
+  answers_url: ""
+  note: "Комплект не выложен в архиве vos.olimpiada.ru по стандартному имени файла."
+
+- id: vsosh-2021-22-mun-10
+  olympiad: ВсОШ
+  year: "2021/22"
+  stage: муниципальный
+  tour: теоретический
+  grade: "10"
+  status: missing
+  tasks_url: ""
+  answers_url: ""
+  note: "Комплект не выложен в архиве vos.olimpiada.ru по стандартному имени файла."
+
+- id: vsosh-2021-22-reg-10-theory
+  olympiad: ВсОШ
+  year: "2021/22"
+  stage: региональный
+  tour: теоретический
+  grade: "10-11"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/reg/biol/tasks-biol-10-11-teor-reg-21-22.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/reg/biol/ans-biol-10-11-teor-reg-21-22.pdf
+  note: "Общий комплект 10–11 классов. Много ботаники, зоологии и биохимии клетки, есть генетика и фотосинтез С4."
+
+- id: vsosh-2021-22-reg-10-practical
+  olympiad: ВсОШ
+  year: "2021/22"
+  stage: региональный
+  tour: практический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/reg/biol/tasks-biol-10-prak-reg-21-22.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/reg/biol/ans-biol-10-prak-reg-21-22.pdf
+  note: "Кабинеты по 50 баллов: анатомия растений, зоология позвоночных, анатомия и физиология человека и животных."
+
+- id: vsosh-2021-22-final-10-theory
+  olympiad: ВсОШ
+  year: "2021/22"
+  stage: заключительный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/final/biol/tasks-biol-10-teor-final-21-22.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/final/biol/ans-biol-10-teor-final-21-22.pdf
+  note: "Сириус. Четыре части, без отдельной расчётной. Сильны ботаника, физиология человека и чтение эксперимента."
+
+- id: vsosh-2021-22-final-10-practical
+  olympiad: ВсОШ
+  year: "2021/22"
+  stage: заключительный
+  tour: практический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/final/biol/tasks-biol-10-prak-final-21-22.pdf
+  answers_url: ""
+  note: "Кабинеты: анатомия растений, зоология позвоночных, микробиология, физиология человека и животных. Ключ в архиве по стандартному имени не выложен."
+
+- id: vsosh-2022-23-school-10
+  olympiad: ВсОШ
+  year: "2022/23"
+  stage: школьный
+  tour: теоретический
+  grade: "10"
+  status: missing
+  tasks_url: ""
+  answers_url: ""
+  note: "Комплект не выложен в архиве vos.olimpiada.ru по стандартному имени файла."
+
+- id: vsosh-2022-23-mun-10
+  olympiad: ВсОШ
+  year: "2022/23"
+  stage: муниципальный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/mun/biol/tasks-biol-10-mun-msk-22-23.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/mun/biol/ans-biol-10-mun-msk-22-23.pdf
+  note: "Вариант центральной комиссии."
+
+- id: vsosh-2022-23-reg-10-theory
+  olympiad: ВсОШ
+  year: "2022/23"
+  stage: региональный
+  tour: теоретический
+  grade: "10-11"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/reg/biol/tasks-biol-10-11-teor-reg-22-23.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/reg/biol/ans-biol-10-11-teor-reg-22-23.pdf
+  note: "Общий комплект 10–11 классов, потолок около 180 баллов. Клетка, генетика, физиология человека, зоология, ботаника."
+
+- id: vsosh-2022-23-reg-10-practical
+  olympiad: ВсОШ
+  year: "2022/23"
+  stage: региональный
+  tour: практический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/reg/biol/tasks-biol-10-prak-reg-22-23.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/reg/biol/ans-biol-10-prak-reg-22-23.pdf
+  note: "Кабинеты: анатомия растений, зоология позвоночных, физиология человека и животных, включая гистологические препараты."
+
+- id: vsosh-2022-23-final-10-theory
+  olympiad: ВсОШ
+  year: "2022/23"
+  stage: заключительный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/final/biol/tasks-biol-10-teor-final-22-23.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/final/biol/ans-biol-10-teor-final-22-23.pdf
+  note: "Саранск. Пять частей: один ответ (40), множественный выбор (90), задания с условием (40), соответствия (54), расчёты (13)."
+
+- id: vsosh-2022-23-final-10-practical
+  olympiad: ВсОШ
+  year: "2022/23"
+  stage: заключительный
+  tour: практический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/final/biol/tasks-biol-10-prak-final-22-23.pdf
+  answers_url: ""
+  note: "Кабинеты: анатомия растений, зоология позвоночных, микробиология, физиология человека и животных. Ключ по стандартному имени не выложен."
+
+- id: vsosh-2023-24-school-10
+  olympiad: ВсОШ
+  year: "2023/24"
+  stage: школьный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/school/biol/tasks-biol-10-sch-msk-23-24.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/school/biol/ans-biol-10-sch-msk-23-24.pdf
+  note: "Вариант центральной комиссии. В шапке потолок работы 307 баллов: один ответ по 5 баллов, дальше верно/неверно со штрафом не ниже нуля."
+
+- id: vsosh-2023-24-mun-10
+  olympiad: ВсОШ
+  year: "2023/24"
+  stage: муниципальный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/mun/biol/tasks-biol-10-mun-msk-23-24.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/mun/biol/ans-biol-10-mun-msk-23-24.pdf
+  note: "Вариант центральной комиссии."
+
+- id: vsosh-2023-24-reg-10-theory
+  olympiad: ВсОШ
+  year: "2023/24"
+  stage: региональный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/ans-biol-10-teor-reg-23-24.pdf
+  note: "Отдельный комплект 10 класса, вариант 1. Часть 1 — 30 вопросов по 1 баллу, часть 3 — соответствия до 31,5 балла."
+
+- id: vsosh-2023-24-reg-10-practical
+  olympiad: ВсОШ
+  year: "2023/24"
+  stage: региональный
+  tour: практический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-prak-reg-23-24.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/ans-biol-10-prak-reg-23-24.pdf
+  note: "Кабинеты: анатомия растений, зоология позвоночных, физиология человека и животных."
+
+- id: vsosh-2023-24-final-10-theory
+  olympiad: ВсОШ
+  year: "2023/24"
+  stage: заключительный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/final/biol/tasks-biol-10-teor-final-23-24.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/final/biol/ans-biol-10-teor-final-23-24.pdf
+  note: "Пять частей. По матрице в конце комплекта: часть 1 — 20, часть 2 — 75, часть 3 — 60, часть 4 — 58,5, часть 5 — 13."
+
+- id: vsosh-2023-24-final-10-practical
+  olympiad: ВсОШ
+  year: "2023/24"
+  stage: заключительный
+  tour: практический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/final/biol/tasks-biol-10-prak-final-23-24.pdf
+  answers_url: ""
+  note: "Кабинеты: анатомия растений (50), зоология позвоночных (50), микробиология. Ключ по стандартному имени не выложен."
+
+- id: vsosh-2024-25-school-10
+  olympiad: ВсОШ
+  year: "2024/25"
+  stage: школьный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/school/biol/tasks-biol-10-sch-msk-24-25.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/school/biol/ans-biol-10-sch-msk-24-25.pdf
+  note: "Вариант центральной комиссии."
+
+- id: vsosh-2024-25-mun-10
+  olympiad: ВсОШ
+  year: "2024/25"
+  stage: муниципальный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/mun/biol/tasks-biol-10-mun-msk-24-25.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/mun/biol/ans-biol-10-mun-msk-24-25.pdf
+  note: "Вариант центральной комиссии."
+
+- id: vsosh-2024-25-reg-10-theory
+  olympiad: ВсОШ
+  year: "2024/25"
+  stage: региональный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/tasks-biol-10-teor-reg-24-25.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/ans-biol-10-teor-reg-24-25.pdf
+  note: "Вариант 1. Часть 1 — 40 вопросов по 1 баллу, часть 3 — соответствия до 101 балла. Много анатомии растений и сравнительной анатомии."
+
+- id: vsosh-2024-25-reg-10-practical
+  olympiad: ВсОШ
+  year: "2024/25"
+  stage: региональный
+  tour: практический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/tasks-biol-10-prak-reg-24-25.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/ans-biol-10-prak-reg-24-25.pdf
+  note: "Кабинеты: анатомия растений, зоология позвоночных (40), физиология человека и животных (40)."
+
+- id: vsosh-2024-25-final-10-theory
+  olympiad: ВсОШ
+  year: "2024/25"
+  stage: заключительный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/final/biol/tasks-biol-10-teor-final-24-25.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/final/biol/ans-biol-10-teor-final-24-25.pdf
+  note: "Сириус, 41-я олимпиада. Часть 1 — 20 баллов, часть 2 — 75, часть 4 — 53, часть 5 — расчёты на 9 баллов."
+
+- id: vsosh-2024-25-final-10-practical
+  olympiad: ВсОШ
+  year: "2024/25"
+  stage: заключительный
+  tour: практический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/final/biol/tasks-biol-10-prak-final-24-25.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/final/biol/ans-biol-10-prak-final-24-25.pdf
+  note: "Кабинеты: анатомия растений (50), биохимия и физиология растений, зоология позвоночных (50), физиология человека и животных (50)."
+
+- id: vsosh-2025-26-school-10
+  olympiad: ВсОШ
+  year: "2025/26"
+  stage: школьный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2025-26/school/biol/tasks-biol-10-sch-msk-25-26.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2025-26/school/biol/ans-biol-10-sch-msk-25-26.pdf
+  note: "Вариант центральной комиссии."
+
+- id: vsosh-2025-26-mun-10
+  olympiad: ВсОШ
+  year: "2025/26"
+  stage: муниципальный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2025-26/mun/biol/tasks-biol-10-mun-msk-25-26.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2025-26/mun/biol/ans-biol-10-mun-msk-25-26.pdf
+  note: "Вариант центральной комиссии."
+
+- id: vsosh-2025-26-reg-10-theory
+  olympiad: ВсОШ
+  year: "2025/26"
+  stage: региональный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2025-26/reg/biol/tasks-biol-10-teor-reg-25-26.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2025-26/reg/biol/ans-biol-10-teor-reg-25-26.pdf
+  note: "Три части: один ответ, множественный выбор, соответствия."
+
+- id: vsosh-2025-26-reg-10-practical
+  olympiad: ВсОШ
+  year: "2025/26"
+  stage: региональный
+  tour: практический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2025-26/reg/biol/tasks-biol-10-prak-reg-25-26.pdf
+  answers_url: ""
+  note: "Кабинеты: анатомия растений, зоология позвоночных (40), физиология человека и животных (40). Ключ по стандартному имени не выложен."
+
+- id: vsosh-2025-26-final-10-theory
+  olympiad: ВсОШ
+  year: "2025/26"
+  stage: заключительный
+  tour: теоретический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2025-26/final/biol/tasks-biol-10-teor-final-25-26.pdf
+  answers_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2025-26/final/biol/ans-biol-10-teor-final-25-26.pdf
+  note: "Пять частей. В расчётной части есть биофизика мембраны, рост культуры клеток, популяционная генетика и сцепление."
+
+- id: vsosh-2025-26-final-10-practical
+  olympiad: ВсОШ
+  year: "2025/26"
+  stage: заключительный
+  tour: практический
+  grade: "10"
+  status: published
+  tasks_url: https://vos.olimpiada.ru/upload/files/Arhive_tasks/2025-26/final/biol/tasks-biol-10-prak-final-25-26.pdf
+  answers_url: ""
+  note: "Кабинеты: анатомия растений, зоология позвоночных, микробиология с биохимией культур, физиология человека (50). Ключ по стандартному имени не выложен."

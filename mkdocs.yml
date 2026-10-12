@@ -1,0 +1,62 @@
+site_name: Олимпиады по биологии, 10 класс
+site_description: Учебная база к ВсОШ и перечневым олимпиадам. Тексты заданий не перепечатаны — только темы, образцы и ссылки на официальные комплекты.
+site_url: https://mayrun.github.io/olimpia_biology/
+repo_url: https://github.com/MayRun/olimpia_biology
+repo_name: MayRun/olimpia_biology
+docs_dir: docs
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Тёмная тема
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Светлая тема
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search:
+      lang: ru
+
+nav:
+  - Главная: index.md
+  - Как устроены задания: formaty.md
+  - Карта тем: temy.md
+  - Темы:
+      - Клетка и мембраны: topics/01-kletka.md
+      - Метаболизм: topics/02-metabolizm.md
+      - Молекулярная биология: topics/03-molekulyarnaya.md
+      - Генетика: topics/04-genetika.md
+      - Микробиология и вирусы: topics/05-mikrobiologiya.md
+      - Ботаника: topics/06-botanika.md
+      - Зоология: topics/07-zoologiya.md
+      - Человек: topics/08-chelovek.md
+      - Эволюция и систематика: topics/09-evolyuciya.md
+      - Экология и этология: topics/10-ekologiya.md
+      - Методы и расчёты: topics/11-metody.md
+      - Практический тур: topics/12-praktika.md
+  - Каталоги:
+      - ВсОШ: catalog/vsosh.md
+      - Перечневые олимпиады: catalog/perechen.md
+
+extra:
+  generator: false

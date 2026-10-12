@@ -1,0 +1,305 @@
+# Номера теоретических туров ВсОШ: регион и финал, 10 класс.
+# number — номер внутри части. note — учебная тема, не цитата из комплекта.
+# Полный текст задания открывайте по ссылке комплекта в data/papers.yml.
+# Полностью разобраны части 1–3 региона 2023/24 и 2024/25 и часть 1 региона 2020/21.
+# У остальных сезонов в индексе части на соответствие и расчёт, плюс отдельные
+# задания финала 2024/25 и расчётная часть финала 2025/26.
+# Школьный и муниципальный этапы в этот файл не входят: они в catalog/vsosh.md.
+
+# --- 2024/25 регион, 10 класс ---
+
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "1", topic: micro, skill: "поверхностные структуры", note: "Функции пилей и адгезия бактерий"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "2", topic: micro, skill: "круговорот азота", note: "Потеря почвенного азота из-за денитрификации"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "3", topic: botany, skill: "клеточные покровы", note: "Где в покровах водорослей, грибов и протистов преобладает белок"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "4", topic: cell, skill: "ультраструктура", note: "Пластиды, кристы и жгутик одноклеточной водоросли"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "5", topic: botany, skill: "жизненный цикл", note: "Клетки мужского гаметофита сосны"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "6", topic: botany, skill: "анатомия органов", note: "Какие срезы принадлежат одному растению"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "7", topic: botany, skill: "стробил", note: "Структура в стробиле оболочкосеменного"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "8", topic: botany, skill: "ксилема", note: "Части окаймлённой поры трахеиды"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "9", topic: micro, skill: "азотфиксация", note: "Зачем цианобактериям гетероцисты и нитрогеназа"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "10", topic: botany, skill: "запас семени", note: "По осветлению крахмала отличить семена с жиром и с крахмалом"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "11", topic: zoology, skill: "конечности", note: "Функции конечностей ракообразных"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "12", topic: zoology, skill: "книдарии", note: "Животные, использующие стрекательные капсулы съеденной добычи"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "13", topic: zoology, skill: "кровеносная система", note: "У кого из показанных животных кровь течёт в замкнутом русле"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "14", topic: zoology, skill: "сравнение систем", note: "Специализированные органы среди показанных животных"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "15", topic: evolution, skill: "ароморфоз", note: "В какой группе впервые появились зубы"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "16", topic: evolution, skill: "конвергенция", note: "Потеря конечностей у неродственных вытянутых животных"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "17", topic: zoology, skill: "систематика птиц", note: "Отряд, к которому относится конюга"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "18", topic: zoology, skill: "выделительная система", note: "У кого есть вторичный мочеточник тазовой почки"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "19", topic: zoology, skill: "дуга аорты", note: "У кого сохраняется только правая дуга аорты"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "20", topic: zoology, skill: "череп амфибий", note: "Почему череп земноводных широкий"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "21", topic: human, skill: "иммунитет", note: "Смысл опыта Дженнера как прививки"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "22", topic: human, skill: "мышца", note: "Чтение миограмм разных режимов сокращения"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "23", topic: cell, skill: "органоиды", note: "Какая структура не является органоидом"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "24", topic: zoology, skill: "развитие", note: "С какой стороны зародыша дрозофилы начинается нейрогенез"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "25", topic: zoology, skill: "зачаток конечности", note: "Откуда берётся лишняя конечность в развитии амфибии"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "26", topic: evolution, skill: "адаптивная радиация", note: "Всплеск видов бокоплавов Байкала в разных нишах"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "27", topic: evolution, skill: "биосфера", note: "Биогенное происхождение кислорода атмосферы"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "28", topic: molecular, skill: "мутации", note: "Как мутации по-разному портят функцию молекулы"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "29", topic: ecology, skill: "ниша", note: "Схема экологических ниш нескольких видов"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "30", topic: ecology, skill: "хищничество", note: "Как хищник меняет разнообразие нижнего уровня"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "31", topic: genetics, skill: "вероятность", note: "Вероятность наследования в заданной родословной ситуации"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "32", topic: methods, skill: "окраска", note: "Зачем в клеточной биологии флуоресцентные красители"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "33", topic: genetics, skill: "моногенное заболевание", note: "Аутосомно-рецессивное наследование муковисцидоза"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "34", topic: metabolism, skill: "формулы", note: "Узнавание метаболитов по структурным формулам"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "35", topic: cell, skill: "мембраны", note: "Куда в клетке садится липофильный краситель"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "36", topic: molecular, skill: "хроматин", note: "Состав нуклеосомы"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "37", topic: evolution, skill: "геном", note: "Почему плотность генов в геноме меняется"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "38", topic: molecular, skill: "транскрипция", note: "Как выглядит первый нуклеотид растущей РНК"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "39", topic: molecular, skill: "репликация", note: "Полуконсервативное удвоение ДНК по схеме"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 1, number: "40", topic: metabolism, skill: "субстратное фосфорилирование", note: "Какое вещество участвует в субстратном фосфорилировании"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "1", topic: micro, skill: "анаэробы", note: "Расслоение Чёрного моря на аэробную и бескислородную зоны"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "2", topic: micro, skill: "вирусы", note: "На какие вирусы действует ингибитор РНК-полимеразы"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "3", topic: evolution, skill: "кладограмма", note: "Чтение дерева происхождения растений"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "4", topic: botany, skill: "микроскопия", note: "Что видно на двух электронных микрофотографиях"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "5", topic: botany, skill: "проводящий пучок", note: "Сравнение двух типов проводящих пучков"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "6", topic: botany, skill: "морфология", note: "Архаичные признаки цветковых по системе Тахтаджяна"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "7", topic: botany, skill: "пигменты", note: "Соотношение пигментов у диатомовых и золотистых"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "8", topic: metabolism, skill: "рубиско", note: "Карбоксилазная и оксигеназная работа рубиско"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "9", topic: zoology, skill: "жизненный цикл", note: "Какие стадии есть у организма на рисунке"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "10", topic: zoology, skill: "паразиты", note: "Когда возможен путь передачи малярийного плазмодия"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "11", topic: methods, skill: "молекулярный метод", note: "Что можно заключить из молекулярного исследования"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "12", topic: zoology, skill: "минога", note: "Какие органы находят при вскрытии миноги"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "13", topic: zoology, skill: "почки амфибий", note: "Смена органов выделения у земноводных"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "14", topic: cell, skill: "чтение микрофото", note: "Признаки клетки на микрофотографии"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "15", topic: human, skill: "иннервация кожи", note: "Что такое дерматом"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "16", topic: human, skill: "эпителий", note: "Функции микроворсинок тонкой кишки"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "17", topic: molecular, skill: "геном человека", note: "Участки генома, полученные от вирусов"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "18", topic: genetics, skill: "селекция", note: "Как селекция меняет гетерозиготность культур"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "19", topic: ecology, skill: "спектр питания", note: "График кормовых спектров гольца"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "20", topic: evolution, skill: "ряды изменчивости", note: "Закон гомологических рядов по фенотипам"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "21", topic: genetics, skill: "кариотип", note: "Половые хромосомы утконоса на кариотипе"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "22", topic: molecular, skill: "сенсор ДНК", note: "Цитоплазматический рецептор, узнающий ДНК"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "23", topic: molecular, skill: "нокаут", note: "Как устроен условный нокаут гена у мыши"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 2, number: "24", topic: molecular, skill: "процессы клетки", note: "Какой процесс не идёт в здоровой клетке человека"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "1", topic: micro, skill: "энергетика", note: "Электронный транспорт у кабельных бактерий по схеме"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "2", topic: botany, skill: "морфология", note: "Архегониофор, лигула и другие структуры высших растений"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "3", topic: botany, skill: "оплодотворение", note: "Подписи пыльцевого зерна и зародышевого мешка"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "4", topic: cell, skill: "пластиды", note: "Тип пластиды и её функция по микрофотографии"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "5", topic: botany, skill: "ауксин", note: "Как ауксин запускает рост растяжением"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "6", topic: zoology, skill: "насекомые", note: "Соответствие имаго насекомых и признаков отрядов"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "7", topic: zoology, skill: "птицы", note: "Тип ног или клюва у разных птиц"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "8", topic: zoology, skill: "череп", note: "Кости черепа судака и отдел черепа"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "9", topic: human, skill: "свёртывание", note: "Схема каскада свёртывания крови"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "10", topic: human, skill: "медиаторы", note: "Нейромедиаторы и их эффекты"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "11", topic: molecular, skill: "дупликация гена", note: "Судьба гена после удвоения в геноме"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "12", topic: human, skill: "иммунные клетки", note: "Клетки иммунной системы и типичная функция"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "13", topic: metabolism, skill: "кофермент", note: "Реакции, в которых участвует биоптерин"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "14", topic: metabolism, skill: "классификация веществ", note: "Вещества и ферменты как классы биомолекул"}
+- {paper: vsosh-2024-25-reg-10-theory, part: 3, number: "15", topic: human, skill: "гормоны", note: "Химическая природа гормонов человека"}
+
+# --- 2023/24 регион, 10 класс ---
+
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "1", topic: micro, skill: "клеточная стенка", note: "Что делает лизоцим с бактериальной клеткой"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "2", topic: micro, skill: "возбудитель", note: "По микрофотографии отличить группу возбудителя"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "3", topic: botany, skill: "жизненный цикл", note: "Из чего развивается гаметофит папоротника"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "4", topic: evolution, skill: "семенные растения", note: "Какое событие необходимо для появления семенных растений"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "5", topic: botany, skill: "распространение семян", note: "Сочная семенная кожура как приспособление к эндозоохории"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "6", topic: botany, skill: "годичные кольца", note: "Как по двум торцам бревна оценить возраст дерева"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "7", topic: botany, skill: "устьица", note: "Сравнение числа устьиц на двух сторонах листа"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "8", topic: botany, skill: "фотосинтез", note: "Опыт с затемнённым участком листа клёна"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "9", topic: botany, skill: "побег", note: "Что удаляют при пасынковании томата"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "10", topic: zoology, skill: "насекомые", note: "Как комар справляется с большим объёмом жидкости"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "11", topic: zoology, skill: "систематический признак", note: "Отличительный признак названной группы животных"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "12", topic: human, skill: "синапс", note: "Контакты отростков нервных клеток"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "13", topic: ecology, skill: "водные млекопитающие", note: "Какие звери фауны России связаны с водой"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "14", topic: human, skill: "череп", note: "Кости, расширяющие ротоглотку"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "15", topic: evolution, skill: "отбор", note: "Как давление хищника меняет признаки рептилий"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "16", topic: zoology, skill: "мимикрия", note: "Коралловые аспиды и подражание окраске"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "17", topic: human, skill: "вегетативная нервная система", note: "Где лежат тела нейронов, запускающих реакцию"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "18", topic: human, skill: "анестезия", note: "Зачем в раствор для обезболивания добавляют добавку"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "19", topic: human, skill: "электрограмма", note: "Чтение записей электрической активности"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "20", topic: genetics, skill: "менделевское скрещивание", note: "Повтор схемы моногибридного скрещивания"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "21", topic: genetics, skill: "эпистаз", note: "Два гена на пути синтеза пигмента"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "22", topic: metabolism, skill: "состав молекул", note: "В какую биомолекулу не входит сера"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "23", topic: human, skill: "клиническая физиология", note: "Какая система страдает по описанию острого случая"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "24", topic: metabolism, skill: "углеводы", note: "Химическая природа сахаров"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "25", topic: methods, skill: "оптогенетика", note: "Как свет управляет возбудимой тканью"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "26", topic: cell, skill: "деление", note: "Стадия клетки на рисунке"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "27", topic: metabolism, skill: "комбинаторика", note: "Сколько линейных тетрасахаридов дают десять мономеров"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "28", topic: molecular, skill: "репликация", note: "Что не нужно для репликации и концов хромосом человека"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "29", topic: molecular, skill: "сплайсинг", note: "Ген из трёх экзонов и вырезание среднего"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 1, number: "30", topic: human, skill: "гаструляция", note: "Типы морфогенетических движений при гаструляции"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "1", topic: micro, skill: "клостридии", note: "Признаки рода Clostridium"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "2", topic: micro, skill: "грибы", note: "Общее в цикле мукора и родственного организма"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "3", topic: botany, skill: "антеридий", note: "Закладка антеридиев у мохообразных"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "4", topic: botany, skill: "анатомия", note: "Определение органа по анатомическим признакам"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "5", topic: botany, skill: "созревание плодов", note: "Климактерическое дозревание плода"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "6", topic: botany, skill: "движение", note: "Быстрая реакция листа мимозы"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "7", topic: zoology, skill: "паразиты", note: "Хозяева и стадии шистосом по учебной схеме"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "8", topic: evolution, skill: "филогения", note: "Упрощённое дерево эволюционных связей"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "9", topic: ecology, skill: "образ жизни рыб", note: "Общая черта экологии перечисленных рыб"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "10", topic: zoology, skill: "метаморфоз", note: "У кого развитие с неполным превращением"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "11", topic: human, skill: "ныряние", note: "Физиология длинной задержки дыхания"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "12", topic: molecular, skill: "матричный синтез", note: "Какие процессы являются матричными"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "13", topic: genetics, skill: "наследование генома", note: "Какая доля генома переходит от родителя к потомку"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "14", topic: genetics, skill: "расщепление", note: "Скрещивания при полном доминировании"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "15", topic: human, skill: "синапс", note: "Как ацетилхолин попадает в пузырьки"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "16", topic: cell, skill: "цитоскелет", note: "С чем связывается фаллоидин"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "17", topic: human, skill: "обмен пуринов", note: "Какой метаболит накапливается при подагре"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "18", topic: human, skill: "график гормонов", note: "Чтение кривых гормонов в крови"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "19", topic: human, skill: "кровь", note: "У каких клеток крови нет ядра"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 2, number: "20", topic: human, skill: "эмбриология глаза", note: "Из каких зачатков собирается глаз млекопитающего"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 3, number: "1", topic: micro, skill: "биотехнология", note: "Микроорганизм и продукт, который от него получают"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 3, number: "2", topic: botany, skill: "жизненный цикл", note: "Стадии возбудителя мучнистой росы"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 3, number: "3", topic: botany, skill: "проводящие пучки", note: "Тип пучка и объект, на срезе которого его ищут"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 3, number: "4", topic: botany, skill: "пигменты", note: "Пигменты фикобилисом"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 3, number: "5", topic: human, skill: "питание", note: "Пища как источник энергии и строительных веществ"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 3, number: "6", topic: zoology, skill: "череп птицы", note: "Кости черепа вороны"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 3, number: "7", topic: human, skill: "кора", note: "Зоны коры больших полушарий"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 3, number: "8", topic: molecular, skill: "азотистые основания", note: "Формулы оснований и их названия"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 3, number: "9", topic: cell, skill: "гепатоцит", note: "Структуры клетки печени и их роль"}
+- {paper: vsosh-2023-24-reg-10-theory, part: 3, number: "10", topic: human, skill: "патология клеток", note: "Болезнь и тип клетки, которая при ней страдает"}
+
+# --- 2025/26 финал, расчётная часть ---
+
+- {paper: vsosh-2025-26-final-10-theory, part: 5, number: "1", topic: methods, skill: "проводимость мембраны", note: "Расчёт проводимости для натрия по току и потенциалам"}
+- {paper: vsosh-2025-26-final-10-theory, part: 5, number: "2", topic: cell, skill: "клеточный цикл", note: "Рост числа клеток с учётом доли в G0"}
+- {paper: vsosh-2025-26-final-10-theory, part: 5, number: "3", topic: genetics, skill: "Харди–Вайнберг", note: "Частота аллеля окраски, сцепленной с X"}
+- {paper: vsosh-2025-26-final-10-theory, part: 5, number: "4", topic: genetics, skill: "сцепление", note: "Доля потомков при расстоянии 20 сантиморганид"}
+
+# --- соответствия и расчёты других сезонов ---
+
+- {paper: vsosh-2020-21-reg-10-theory, part: 3, number: "1", topic: micro, skill: "возбудители", note: "Болезнь и категория возбудителя"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 3, number: "2", topic: botany, skill: "анатомия листа", note: "Ткани на срезе листа олеандра"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 3, number: "3", topic: botany, skill: "систематика", note: "Научные названия деревьев и признаки"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 3, number: "4", topic: zoology, skill: "соответствие групп", note: "Организмы и их систематические признаки"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 3, number: "5", topic: cell, skill: "ультраструктура", note: "Органоиды на фото фрагмента растительной клетки"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 3, number: "6", topic: zoology, skill: "паразиты", note: "Паразит человека и число хозяев в цикле"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 3, number: "7", topic: human, skill: "цикл", note: "Фазы менструального цикла и овуляция"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 3, number: "8", topic: human, skill: "глия", note: "Тип глиальной клетки и функция"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 3, number: "9", topic: metabolism, skill: "брожение", note: "Стадии молочнокислого брожения"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 3, number: "10", topic: zoology, skill: "прикладная зоология", note: "Из тканей каких животных делают бытовые материалы"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 3, number: "11", topic: evolution, skill: "признаки таксонов", note: "Признак и группа, для которой он верен"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 3, number: "12", topic: botany, skill: "пигменты и окраска", note: "Окраска органов растения и класс пигмента"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "1", topic: ecology, skill: "стратификация", note: "Обмен веществ в водоёме без перемешивания слоёв"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "2", topic: botany, skill: "ткани", note: "Название ткани и её положение"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "3", topic: botany, skill: "семязачаток", note: "Подписи двух типов семязачатков"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "4", topic: botany, skill: "опыление", note: "Способ переноса пыльцы и группа растений"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "5", topic: botany, skill: "срез корня", note: "Зоны на поперечном срезе корня двудольного"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "6", topic: botany, skill: "центральный цилиндр", note: "Ткани центрального цилиндра корня"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "7", topic: ecology, skill: "биомасса", note: "Столбцы биомассы живых групп"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "8", topic: ecology, skill: "пищевая сеть", note: "Связи в сообществе бурых водорослей"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "9", topic: zoology, skill: "коракоид", note: "У каких групп есть коракоид"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "10", topic: human, skill: "ЭКГ и нервы", note: "Форма электрического сигнала и событие"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "11", topic: human, skill: "черепные нервы", note: "Нерв и его функция"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "12", topic: human, skill: "эмбрион амфибии", note: "Стадия развития лягушки на рисунке"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "13", topic: human, skill: "зародышевые листки", note: "Орган и листок, из которого он возникает"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "14", topic: evolution, skill: "клады", note: "Монофилия, парафилия и полифилия"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "15", topic: metabolism, skill: "два пути синтеза", note: "Сравнение двух путей сборки полимера"}
+- {paper: vsosh-2020-21-final-10-theory, part: 4, number: "16", topic: molecular, skill: "число генов", note: "Оценка числа генов в диплоидной клетке"}
+- {paper: vsosh-2020-21-final-10-theory, part: 5, number: "1", topic: botany, skill: "расчёт плода", note: "Сколько семян в многолистовке при заданном опылении"}
+- {paper: vsosh-2020-21-final-10-theory, part: 5, number: "2", topic: botany, skill: "расчёт размножения", note: "Количественная задача про бешеного огурца"}
+- {paper: vsosh-2020-21-final-10-theory, part: 5, number: "3", topic: metabolism, skill: "липиды", note: "Почему липиды не путешествуют в клетке в чистом виде"}
+- {paper: vsosh-2020-21-final-10-theory, part: 5, number: "4", topic: genetics, skill: "группы крови", note: "Частоты групп ABO в популяции"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "1", topic: micro, skill: "группы микробов", note: "Микроорганизм и тип обмена или среда"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "2", topic: micro, skill: "возбудители", note: "Болезнь и категория возбудителя"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "3", topic: botany, skill: "микориза", note: "Кто в микоризе что получает"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "4", topic: cell, skill: "электронная микроскопия", note: "Структура на электронной микрофотографии"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "5", topic: botany, skill: "подписи рисунка", note: "Цифры на ботаническом рисунке и термины"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "6", topic: botany, skill: "цветок", note: "Срез цветка шикши и его части"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "7", topic: botany, skill: "гинецей", note: "Типы гинецея по схемам"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "8", topic: botany, skill: "проводящий пучок", note: "Тип пучка и цифра на схеме"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "9", topic: metabolism, skill: "C3 и C4", note: "Признаки С3- и С4-фотосинтеза у двух растений"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "10", topic: zoology, skill: "рисунок животных", note: "Животное на рисунке и его признак"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "11", topic: zoology, skill: "аурелия", note: "Стадии жизненного цикла аурелии"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "12", topic: zoology, skill: "один орган", note: "Один и тот же орган у разных животных"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "13", topic: ecology, skill: "пищевые объекты", note: "Вид и то, чем он питается"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "14", topic: human, skill: "типы клеток", note: "Клетка человека и её роль"}
+- {paper: vsosh-2021-22-reg-10-theory, part: 3, number: "15", topic: molecular, skill: "этапы процесса", note: "Порядок этапов молекулярного процесса на схеме"}
+- {paper: vsosh-2021-22-final-10-theory, part: 4, number: "1", topic: ecology, skill: "кораллы", note: "Почему обесцвечивание губит риф"}
+- {paper: vsosh-2021-22-final-10-theory, part: 4, number: "2", topic: botany, skill: "срезы органов", note: "Поперечный срез и орган растения"}
+- {paper: vsosh-2021-22-final-10-theory, part: 4, number: "3", topic: zoology, skill: "клетки гидры", note: "Изолированные клетки гидры и их типы"}
+- {paper: vsosh-2021-22-final-10-theory, part: 4, number: "4", topic: zoology, skill: "млекопитающие", note: "Как разные звери используют одну структуру"}
+- {paper: vsosh-2021-22-final-10-theory, part: 4, number: "5", topic: human, skill: "заболевания", note: "Рисунок и название болезни"}
+- {paper: vsosh-2021-22-final-10-theory, part: 4, number: "6", topic: human, skill: "близнецы", note: "На какой стадии сбоя развития возникают сиамские близнецы"}
+- {paper: vsosh-2021-22-final-10-theory, part: 4, number: "7", topic: human, skill: "функции клеток", note: "Клетка и выполняемая функция"}
+- {paper: vsosh-2021-22-final-10-theory, part: 4, number: "8", topic: micro, skill: "субстраты", note: "Какие вещества микробы берут как источник"}
+- {paper: vsosh-2021-22-final-10-theory, part: 4, number: "9", topic: zoology, skill: "черепа динозавров", note: "Череп хищного динозавра и тип питания"}
+- {paper: vsosh-2021-22-final-10-theory, part: 4, number: "10", topic: molecular, skill: "белки и сигналы", note: "Белок и сигнал, который он создаёт"}
+- {paper: vsosh-2021-22-final-10-theory, part: 4, number: "11", topic: methods, skill: "этапы метода", note: "Порядок этапов на схеме А–Д"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "1", topic: micro, skill: "доказательство", note: "Как подтверждают присутствие микроорганизма"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "2", topic: botany, skill: "анатомия", note: "Структуры растения на рисунке"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "3", topic: botany, skill: "азотное голодание", note: "Ответ растения на нехватку азота"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "4", topic: botany, skill: "двойное оплодотворение", note: "Что из чего возникает после двойного оплодотворения"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "5", topic: metabolism, skill: "классы веществ", note: "Вещество и класс органических соединений"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "6", topic: cell, skill: "заряд белка", note: "Какие радикалы заряжают белок в цитоплазме"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "7", topic: genetics, skill: "взаимодействие генов", note: "Схема несцепленных генов окраски"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "8", topic: human, skill: "классы гормонов", note: "Гормон и химический класс"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "9", topic: genetics, skill: "Х-сцепление", note: "Частоты аллеля Х-сцепленного гена в популяции"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "10", topic: zoology, skill: "классы моллюсков", note: "Признак и класс моллюсков"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "11", topic: zoology, skill: "паук", note: "Внешнее строение паука по схеме"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "12", topic: ecology, skill: "поведение", note: "Вид поведения на рисунке"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "13", topic: human, skill: "вегетатика", note: "Реакция и отдел вегетативной системы"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "14", topic: human, skill: "нервно-мышечный препарат", note: "Схема нервно-мышечного препарата"}
+- {paper: vsosh-2022-23-reg-10-theory, part: 3, number: "15", topic: human, skill: "ткани органов", note: "Орган и преобладающая ткань"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "1", topic: metabolism, skill: "формулы", note: "Вещество, формула и роль"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "2", topic: metabolism, skill: "классы веществ", note: "Органическое вещество и класс"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "3", topic: metabolism, skill: "классы веществ", note: "Десять веществ и их классы"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "4", topic: cell, skill: "продукты клеток", note: "Тип клетки и вещество, которое она выделяет"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "5", topic: molecular, skill: "типы РНК", note: "Класс РНК эукариот и функция"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "6", topic: genetics, skill: "карта дрозофилы", note: "Расстояние между генами d и al"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "7", topic: botany, skill: "пыльца", note: "Подписи пыльцевого зерна"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "8", topic: botany, skill: "рисунок органов", note: "Буквенные коды структур на ботаническом рисунке"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "9", topic: botany, skill: "вторичный рост", note: "Типы заложения тканей при вторичном утолщении"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "10", topic: cell, skill: "электронограммы", note: "Снимок и название структуры"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "11", topic: ecology, skill: "сигналы", note: "Поза или сигнал животного и смысл"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "12", topic: cell, skill: "электронограммы", note: "Узнавание структуры на электронограмме"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "13", topic: zoology, skill: "млекопитающие", note: "Структура и группа млекопитающих"}
+- {paper: vsosh-2022-23-final-10-theory, part: 4, number: "14", topic: human, skill: "торможение рефлексов", note: "Пример и вид внутреннего торможения"}
+- {paper: vsosh-2022-23-final-10-theory, part: 5, number: "1", topic: botany, skill: "расчёт опыления", note: "Сколько пыльцевых зёрен нужно рыльцу"}
+- {paper: vsosh-2022-23-final-10-theory, part: 5, number: "2", topic: metabolism, skill: "запасные вещества", note: "Расчёт выхода энергии или воды из запаса животных"}
+- {paper: vsosh-2022-23-final-10-theory, part: 5, number: "3", topic: genetics, skill: "частоты в популяции", note: "Оценка доли носителей в большой популяции"}
+
+# --- 2024/25 финал, отдельные задания с длинным условием и расчётом ---
+
+- {paper: vsosh-2024-25-final-10-theory, part: 1, number: "19", topic: evolution, skill: "логотип белка", note: "Консервативность миоглобина у пингвинов и других птиц"}
+- {paper: vsosh-2024-25-final-10-theory, part: 1, number: "20", topic: evolution, skill: "половые хромосомы", note: "Почему на древних участках Y меньше генов, чем на X"}
+- {paper: vsosh-2024-25-final-10-theory, part: 2, number: "1", topic: micro, skill: "вирусный цикл", note: "Какие утверждения следуют из схемы цикла вируса гепатита B"}
+- {paper: vsosh-2024-25-final-10-theory, part: 2, number: "2", topic: micro, skill: "адгезия", note: "Чем бактерии удерживаются в ротовой полости"}
+- {paper: vsosh-2024-25-final-10-theory, part: 2, number: "3", topic: botany, skill: "жизненный цикл", note: "Белая ржавчина крестоцветных как оомицет, не сумчатый гриб"}
+- {paper: vsosh-2024-25-final-10-theory, part: 2, number: "4", topic: botany, skill: "срез побега", note: "По продольному срезу отличить группу высшего растения"}
+- {paper: vsosh-2024-25-final-10-theory, part: 5, number: "1", topic: metabolism, skill: "цикл Кальвина", note: "Сколько водорода нужно окислить, чтобы собрать глюкозу без CO"}
+
+# --- 2020/21 регион, часть 1 (комплект 10–11) ---
+
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "1", topic: micro, skill: "хемосинтез", note: "Кого не относят к хемосинтезирующим бактериям"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "2", topic: micro, skill: "бактериофаг", note: "Чем в тех условиях останавливали вспышку холеры"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "3", topic: cell, skill: "чтение схемы", note: "Что показывает схема из статьи про клетку"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "4", topic: botany, skill: "паразитические водоросли", note: "Водоросли, которые паразитируют на других организмах"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "5", topic: botany, skill: "определение по фото", note: "Узнать объект по фотографиям"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "6", topic: botany, skill: "электронная микроскопия", note: "Структура на снимке сканирующего микроскопа"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "7", topic: botany, skill: "эпифиты", note: "Чем эпифит отличается от паразита"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "8", topic: metabolism, skill: "фотосинтез", note: "Какие участники нужны фотосинтезу листа"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "9", topic: metabolism, skill: "стехиометрия", note: "Суммарное уравнение фотосинтеза с расчётом"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "10", topic: botany, skill: "устьица и засуха", note: "Что происходит с фотосинтезом при закрытых устьицах"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "11", topic: metabolism, skill: "CAM", note: "Ночная фиксация CO2 у CAM-растений"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "12", topic: botany, skill: "вторичные метаболиты", note: "Зачем растению специфические вторичные вещества"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "13", topic: zoology, skill: "регенерация", note: "Опыт с облучёнными гидрами и стволовыми клетками"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "14", topic: cell, skill: "митохондрии", note: "У кого митохондрии редуцированы"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "15", topic: human, skill: "сустав", note: "Что означает термин про межпястный сустав"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "16", topic: ecology, skill: "гнездование", note: "Воробьиные, которые гнездятся особым способом"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "17", topic: zoology, skill: "зубы слона", note: "Смена генераций коренных зубов у слона"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "18", topic: zoology, skill: "амфибии", note: "Особенность размножения суринамской пипы"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "19", topic: ecology, skill: "пищевая цепь", note: "Кто входит в пастбищную цепь"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "20", topic: ecology, skill: "окраска", note: "Зачем тропическим птицам яркая окраска"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "21", topic: human, skill: "феромоны", note: "Биологический смысл сюжета про запах"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "22", topic: zoology, skill: "определение по фото", note: "Кто изображён на фотографии"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "23", topic: botany, skill: "ядовитые растения", note: "Какое растение узнаётся по мифологическому сюжету"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "24", topic: botany, skill: "алкалоиды", note: "Растение из сюжета Одиссея и его действующее вещество"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "25", topic: metabolism, skill: "формула", note: "Какое вещество задано структурной формулой"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "26", topic: human, skill: "дробление", note: "Первые стадии эмбрионального развития на рисунке"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "27", topic: ecology, skill: "токсины в цепи", note: "Откуда в тканях моллюска берётся краткий токсин"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "28", topic: evolution, skill: "антропогенез", note: "Кого считают наиболее вероятным предком современного человека"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "29", topic: evolution, skill: "волны численности", note: "Популяционные волны как фактор эволюции"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "30", topic: evolution, skill: "разнообразие", note: "Какой фактор лучше сохраняет видовое богатство"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "31", topic: methods, skill: "рисунок", note: "Что изображено на схеме справа"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "32", topic: human, skill: "гемоглобин", note: "Как нитриты действуют на кровь"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "33", topic: molecular, skill: "хроматин", note: "Какие аминокислоты типичны для белков хроматина"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "34", topic: metabolism, skill: "элементный состав", note: "Пять элементов в составе аминокислоты"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "35", topic: genetics, skill: "вероятность генотипа", note: "В каком скрещивании чаще выходит заданный генотип"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "36", topic: genetics, skill: "наследование", note: "Общее у митохондриального генома и X-хромосомы"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "37", topic: cell, skill: "актин", note: "Какую структуру клетки держит актин"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "38", topic: molecular, skill: "антикодон", note: "Антикодон тРНК метионина к кодону AUG"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "39", topic: genetics, skill: "супрессия", note: "Рецессивный аллель подавляет другой ген"}
+- {paper: vsosh-2020-21-reg-10-theory, part: 1, number: "40", topic: genetics, skill: "хиазмы", note: "Как по числу хиазм оценить длину плеча хромосомы"}
