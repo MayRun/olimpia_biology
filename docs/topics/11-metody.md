@@ -23,7 +23,7 @@
 
 ## Где решать
 
-Индекс: [data/tasks.yml](../data/tasks.yml), поле `topic: methods`.
+Все номера темы: [список](../zadaniya/11-metody.md).
 
 - Регион 2024/25, часть 1, № 32, часть 2, № 11. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/tasks-biol-10-teor-reg-24-25.pdf)
 - Регион 2023/24, часть 1, № 25. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf)

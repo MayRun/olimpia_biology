@@ -23,7 +23,7 @@
 
 ## Где решать
 
-Индекс: [data/tasks.yml](../data/tasks.yml), поле `topic: molecular`.
+Все номера темы: [список](../zadaniya/03-molekulyarnaya.md).
 
 - Регион 2024/25, часть 1, № 28, 36, 38, 39 и часть 2, № 17, 22, 23, часть 3, № 11. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/tasks-biol-10-teor-reg-24-25.pdf)
 - Регион 2023/24, часть 1, № 28 и 29, часть 2, № 12, часть 3, № 8. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf)

@@ -24,7 +24,7 @@
 
 ## Где решать
 
-Индекс: [data/tasks.yml](../data/tasks.yml), поле `topic: botany`.
+Все номера темы: [список](../zadaniya/06-botanika.md).
 
 - Регион 2024/25, часть 1, № 5–8 и 10, часть 3, № 2, 3 и 5. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/tasks-biol-10-teor-reg-24-25.pdf)
 - Регион 2023/24, часть 1, № 3–9, часть 3, № 2 и 3. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf)

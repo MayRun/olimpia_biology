@@ -25,7 +25,7 @@
 
 ## Где решать
 
-Индекс: [data/tasks.yml](../data/tasks.yml), поле `topic: genetics`.
+Все номера темы: [список](../zadaniya/04-genetika.md).
 
 - Регион 2024/25, часть 1, № 31 и 33, часть 2, № 18 и 21. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/tasks-biol-10-teor-reg-24-25.pdf)
 - Регион 2023/24, часть 1, № 20 и 21, часть 2, № 13 и 14. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf)

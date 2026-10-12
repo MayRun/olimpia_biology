@@ -1,0 +1,79 @@
+# Экология и этология
+
+Все номера этой темы из индекса региона и финала: 16. В столбце «о чём номер» учебная тема, не цитата из комплекта. Текст задания открывайте в PDF.
+
+Опорный разбор: [экология и этология](../topics/10-ekologiya.md). Остальные темы: [карта](../temy.md). Все номера вместе: [общий список](00-vse.md).
+
+Полностью разобраны части 1–3 региона 2023/24 и 2024/25 и часть 1 региона 2020/21. У остальных сезонов в списке части на соответствие и расчёт, отдельные задания финала 2024/25 и расчётная часть финала 2025/26. Школьный и муниципальный этапы сюда не входят: они в [каталоге ВсОШ](../catalog/vsosh.md).
+
+## Регион 2024/25
+
+[задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/tasks-biol-10-teor-reg-24-25.pdf) · [ответы](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/ans-biol-10-teor-reg-24-25.pdf)
+
+| Часть | № | Приём | О чём номер |
+| --- | --- | --- | --- |
+| 1 | 29 | ниша | Схема экологических ниш нескольких видов |
+| 1 | 30 | хищничество | Как хищник меняет разнообразие нижнего уровня |
+| 2 | 19 | спектр питания | График кормовых спектров гольца |
+
+## Регион 2023/24
+
+[задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf) · [ответы](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/ans-biol-10-teor-reg-23-24.pdf)
+
+| Часть | № | Приём | О чём номер |
+| --- | --- | --- | --- |
+| 1 | 13 | водные млекопитающие | Какие звери фауны России связаны с водой |
+| 2 | 9 | образ жизни рыб | Общая черта экологии перечисленных рыб |
+
+## Регион 2022/23, комплект 10–11
+
+[задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/reg/biol/tasks-biol-10-11-teor-reg-22-23.pdf) · [ответы](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/reg/biol/ans-biol-10-11-teor-reg-22-23.pdf)
+
+| Часть | № | Приём | О чём номер |
+| --- | --- | --- | --- |
+| 3 | 12 | поведение | Вид поведения на рисунке |
+
+## Финал 2022/23
+
+[задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/final/biol/tasks-biol-10-teor-final-22-23.pdf) · [ответы](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2022-23/final/biol/ans-biol-10-teor-final-22-23.pdf)
+
+| Часть | № | Приём | О чём номер |
+| --- | --- | --- | --- |
+| 4 | 11 | сигналы | Поза или сигнал животного и смысл |
+
+## Регион 2021/22, комплект 10–11
+
+[задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/reg/biol/tasks-biol-10-11-teor-reg-21-22.pdf) · [ответы](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/reg/biol/ans-biol-10-11-teor-reg-21-22.pdf)
+
+| Часть | № | Приём | О чём номер |
+| --- | --- | --- | --- |
+| 3 | 13 | пищевые объекты | Вид и то, чем он питается |
+
+## Финал 2021/22
+
+[задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/final/biol/tasks-biol-10-teor-final-21-22.pdf) · [ответы](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2021-22/final/biol/ans-biol-10-teor-final-21-22.pdf)
+
+| Часть | № | Приём | О чём номер |
+| --- | --- | --- | --- |
+| 4 | 1 | кораллы | Почему обесцвечивание губит риф |
+
+## Регион 2020/21, комплект 10–11
+
+[задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/reg/biol/tasks-biol-10-11-teor-reg-20-21.pdf) · [ответы](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/reg/biol/ans-biol-10-11-teor-reg-20-21.pdf)
+
+| Часть | № | Приём | О чём номер |
+| --- | --- | --- | --- |
+| 1 | 16 | гнездование | Воробьиные, которые гнездятся особым способом |
+| 1 | 19 | пищевая цепь | Кто входит в пастбищную цепь |
+| 1 | 20 | окраска | Зачем тропическим птицам яркая окраска |
+| 1 | 27 | токсины в цепи | Откуда в тканях моллюска берётся краткий токсин |
+
+## Финал 2020/21
+
+[задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/final/biol/tasks-biol-10-teor-final-20-21.pdf) · [ответы](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/final/biol/ans-biol-10-teor-final-20-21.pdf)
+
+| Часть | № | Приём | О чём номер |
+| --- | --- | --- | --- |
+| 4 | 1 | стратификация | Обмен веществ в водоёме без перемешивания слоёв |
+| 4 | 7 | биомасса | Столбцы биомассы живых групп |
+| 4 | 8 | пищевая сеть | Связи в сообществе бурых водорослей |

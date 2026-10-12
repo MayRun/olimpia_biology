@@ -23,7 +23,7 @@
 
 ## Где решать
 
-Индекс: [data/tasks.yml](../data/tasks.yml), поле `topic: metabolism`.
+Все номера темы: [список](../zadaniya/02-metabolizm.md).
 
 - Регион 2024/25, часть 1, № 34 и 40, часть 2, № 8, часть 3, № 13 и 14. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/tasks-biol-10-teor-reg-24-25.pdf)
 - Регион 2020/21, часть 1, № 8–11: уравнение фотосинтеза, засуха и CAM. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2020-21/reg/biol/tasks-biol-10-11-teor-reg-20-21.pdf)

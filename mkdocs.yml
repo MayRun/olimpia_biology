@@ -41,6 +41,19 @@ nav:
   - Главная: index.md
   - Как устроены задания: formaty.md
   - Карта тем: temy.md
+  - Номера:
+      - Все номера: zadaniya/00-vse.md
+      - Клетка и мембраны: zadaniya/01-kletka.md
+      - Метаболизм: zadaniya/02-metabolizm.md
+      - Молекулярная биология: zadaniya/03-molekulyarnaya.md
+      - Генетика: zadaniya/04-genetika.md
+      - Микробиология и вирусы: zadaniya/05-mikrobiologiya.md
+      - Ботаника: zadaniya/06-botanika.md
+      - Зоология: zadaniya/07-zoologiya.md
+      - Человек: zadaniya/08-chelovek.md
+      - Эволюция и систематика: zadaniya/09-evolyuciya.md
+      - Экология и этология: zadaniya/10-ekologiya.md
+      - Методы и расчёты: zadaniya/11-metody.md
   - Темы:
       - Клетка и мембраны: topics/01-kletka.md
       - Метаболизм: topics/02-metabolizm.md

@@ -22,7 +22,7 @@
 
 ## Где решать
 
-Индекс: [data/tasks.yml](../data/tasks.yml), поле `topic: zoology`.
+Все номера темы: [список](../zadaniya/07-zoologiya.md).
 
 - Регион 2024/25, часть 1, № 11–20, часть 2, № 9, 12, 13, часть 3, № 6–8. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/tasks-biol-10-teor-reg-24-25.pdf)
 - Регион 2023/24, часть 1, № 10, 11, 16, часть 2, № 7 и 10, часть 3, № 6. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf)

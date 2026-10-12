@@ -14,7 +14,7 @@
 - [ВсОШ, 10 класс, 2020/21–2025/26](catalog/vsosh.md)
 - [Перечневые олимпиады](catalog/perechen.md)
 
-Машиночитаемые списки: [data/papers.yml](data/papers.yml) (комплекты) и [data/tasks.yml](data/tasks.yml) (номера теории региона и финала). В индексе целиком разобраны регион 2020/21 (часть 1), 2023/24 и 2024/25; у остальных сезонов — части на соответствие и расчёт и отдельные задания финала. Школьный и муниципальный этапы есть в каталоге ссылками, без пономерной разметки.
+Все размеченные номера региона и финала — в [общем списке](zadaniya/00-vse.md), по темам они же лежат в [карте](temy.md). Целиком разобраны регион 2020/21 (часть 1), 2023/24 и 2024/25; у остальных сезонов — части на соответствие и расчёт и отдельные задания финала. Школьный и муниципальный этапы есть в каталоге ссылками, без пономерной разметки.
 
 ## Как устроена подготовка в 10 классе
 
@@ -42,22 +42,20 @@
 
 ## Темы
 
-| Раздел | Страница |
-| --- | --- |
-| Клетка и мембраны | [topics/01-kletka.md](topics/01-kletka.md) |
-| Метаболизм | [topics/02-metabolizm.md](topics/02-metabolizm.md) |
-| Молекулярная биология | [topics/03-molekulyarnaya.md](topics/03-molekulyarnaya.md) |
-| Генетика | [topics/04-genetika.md](topics/04-genetika.md) |
-| Микробиология и вирусы | [topics/05-mikrobiologiya.md](topics/05-mikrobiologiya.md) |
-| Ботаника | [topics/06-botanika.md](topics/06-botanika.md) |
-| Зоология | [topics/07-zoologiya.md](topics/07-zoologiya.md) |
-| Человек | [topics/08-chelovek.md](topics/08-chelovek.md) |
-| Эволюция и систематика | [topics/09-evolyuciya.md](topics/09-evolyuciya.md) |
-| Экология и этология | [topics/10-ekologiya.md](topics/10-ekologiya.md) |
-| Методы и расчёты | [topics/11-metody.md](topics/11-metody.md) |
-| Практический тур | [topics/12-praktika.md](topics/12-praktika.md) |
-
-Коды тем в `data/tasks.yml`: `cell`, `metabolism`, `molecular`, `genetics`, `micro`, `botany`, `zoology`, `human`, `evolution`, `ecology`, `methods`.
+| Раздел | Разбор | Все номера |
+| --- | --- | --- |
+| Клетка и мембраны | [разбор](topics/01-kletka.md) | [18](zadaniya/01-kletka.md) |
+| Метаболизм | [разбор](topics/02-metabolizm.md) | [23](zadaniya/02-metabolizm.md) |
+| Молекулярная биология | [разбор](topics/03-molekulyarnaya.md) | [19](zadaniya/03-molekulyarnaya.md) |
+| Генетика | [разбор](topics/04-genetika.md) | [19](zadaniya/04-genetika.md) |
+| Микробиология и вирусы | [разбор](topics/05-mikrobiologiya.md) | [20](zadaniya/05-mikrobiologiya.md) |
+| Ботаника | [разбор](topics/06-botanika.md) | [59](zadaniya/06-botanika.md) |
+| Зоология | [разбор](topics/07-zoologiya.md) | [40](zadaniya/07-zoologiya.md) |
+| Человек | [разбор](topics/08-chelovek.md) | [43](zadaniya/08-chelovek.md) |
+| Эволюция и систематика | [разбор](topics/09-evolyuciya.md) | [17](zadaniya/09-evolyuciya.md) |
+| Экология и этология | [разбор](topics/10-ekologiya.md) | [16](zadaniya/10-ekologiya.md) |
+| Методы и расчёты | [разбор](topics/11-metody.md) | [6](zadaniya/11-metody.md) |
+| Практический тур | [разбор](topics/12-praktika.md) | в индекс теории не входит |
 
 ## Откуда взяты ссылки
 

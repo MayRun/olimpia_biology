@@ -23,7 +23,7 @@
 
 ## Где решать
 
-Индекс: [data/tasks.yml](../data/tasks.yml), поле `topic: human`.
+Все номера темы: [список](../zadaniya/08-chelovek.md).
 
 - Регион 2024/25, часть 1, № 21 и 22, часть 2, № 15 и 16, часть 3, № 9, 10, 12, 15. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/tasks-biol-10-teor-reg-24-25.pdf)
 - Регион 2023/24, часть 1, № 12, 14, 17–19, 30, часть 2, № 11, 15, 18–20, часть 3, № 5 и 7. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf)

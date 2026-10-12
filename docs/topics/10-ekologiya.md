@@ -25,7 +25,7 @@
 
 ## Где решать
 
-Индекс: [data/tasks.yml](../data/tasks.yml), поле `topic: ecology`.
+Все номера темы: [список](../zadaniya/10-ekologiya.md).
 
 - Регион 2024/25, часть 1, № 29 и 30, часть 2, № 19. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/tasks-biol-10-teor-reg-24-25.pdf)
 - Регион 2023/24, часть 1, № 13, часть 2, № 9. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf)

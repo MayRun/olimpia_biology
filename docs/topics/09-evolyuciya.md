@@ -23,7 +23,7 @@
 
 ## Где решать
 
-Индекс: [data/tasks.yml](../data/tasks.yml), поле `topic: evolution`.
+Все номера темы: [список](../zadaniya/09-evolyuciya.md).
 
 - Регион 2024/25, часть 1, № 15, 16, 26, 27, 37, часть 2, № 3 и 20. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2024-25/reg/biol/tasks-biol-10-teor-reg-24-25.pdf)
 - Регион 2023/24, часть 1, № 4 и 15, часть 2, № 8. [Задания](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2023-24/reg/biol/tasks-biol-10-teor-reg-23-24.pdf)
